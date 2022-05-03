@@ -8,6 +8,11 @@ main {
   }
 }
 
+.banner img {
+  object-fit: cover;
+}
+
+
 .content {
   display: flex;
   gap: 20px;
